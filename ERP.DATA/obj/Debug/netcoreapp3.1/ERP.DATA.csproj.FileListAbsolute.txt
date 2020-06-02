@@ -1,0 +1,54 @@
+D:\ERP\BACKEND\ERP.DATA\bin\Debug\netcoreapp3.1\ERP.DATA.deps.json
+D:\ERP\BACKEND\ERP.DATA\bin\Debug\netcoreapp3.1\ERP.DATA.runtimeconfig.json
+D:\ERP\BACKEND\ERP.DATA\bin\Debug\netcoreapp3.1\ERP.DATA.runtimeconfig.dev.json
+D:\ERP\BACKEND\ERP.DATA\bin\Debug\netcoreapp3.1\ERP.DATA.dll
+D:\ERP\BACKEND\ERP.DATA\bin\Debug\netcoreapp3.1\ERP.DATA.pdb
+D:\ERP\BACKEND\ERP.DATA\bin\Debug\netcoreapp3.1\ERP.ENTITIES.dll
+D:\ERP\BACKEND\ERP.DATA\bin\Debug\netcoreapp3.1\ERP.ENTITIES.pdb
+D:\ERP\BACKEND\ERP.DATA\obj\Debug\netcoreapp3.1\ERP.DATA.csprojAssemblyReference.cache
+D:\ERP\BACKEND\ERP.DATA\obj\Debug\netcoreapp3.1\ERP.DATA.AssemblyInfoInputs.cache
+D:\ERP\BACKEND\ERP.DATA\obj\Debug\netcoreapp3.1\ERP.DATA.AssemblyInfo.cs
+D:\ERP\BACKEND\ERP.DATA\obj\Debug\netcoreapp3.1\ERP.DATA.csproj.CopyComplete
+D:\ERP\BACKEND\ERP.DATA\obj\Debug\netcoreapp3.1\ERP.DATA.dll
+D:\ERP\BACKEND\ERP.DATA\obj\Debug\netcoreapp3.1\ERP.DATA.pdb
+D:\project\ERP\backend\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.deps.json
+D:\project\ERP\backend\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.runtimeconfig.json
+D:\project\ERP\backend\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.runtimeconfig.dev.json
+D:\project\ERP\backend\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.dll
+D:\project\ERP\backend\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.pdb
+D:\project\ERP\backend\ERP.data\bin\Debug\netcoreapp3.1\ERP.Entities.dll
+D:\project\ERP\backend\ERP.data\bin\Debug\netcoreapp3.1\ERP.Entities.pdb
+D:\project\ERP\backend\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.csprojAssemblyReference.cache
+D:\project\ERP\backend\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.AssemblyInfoInputs.cache
+D:\project\ERP\backend\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.AssemblyInfo.cs
+D:\project\ERP\backend\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.csproj.CopyComplete
+D:\project\ERP\backend\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.dll
+D:\project\ERP\backend\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.pdb
+E:\PROJECT\ERP\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.deps.json
+E:\PROJECT\ERP\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.runtimeconfig.json
+E:\PROJECT\ERP\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.runtimeconfig.dev.json
+E:\PROJECT\ERP\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.dll
+E:\PROJECT\ERP\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.pdb
+E:\PROJECT\ERP\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.Entities.dll
+E:\PROJECT\ERP\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.Entities.pdb
+E:\PROJECT\ERP\BACKEND\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.csprojAssemblyReference.cache
+E:\PROJECT\ERP\BACKEND\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.AssemblyInfoInputs.cache
+E:\PROJECT\ERP\BACKEND\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.AssemblyInfo.cs
+E:\PROJECT\ERP\BACKEND\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.csproj.CopyComplete
+E:\PROJECT\ERP\BACKEND\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.dll
+E:\PROJECT\ERP\BACKEND\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.pdb
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.deps.json
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.runtimeconfig.json
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.runtimeconfig.dev.json
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.dll
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.data.pdb
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.Entities.dll
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.data\bin\Debug\netcoreapp3.1\ERP.Entities.pdb
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.csprojAssemblyReference.cache
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.AssemblyInfoInputs.cache
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.AssemblyInfo.cs
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.csproj.CopyComplete
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.dll
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.data\obj\Debug\netcoreapp3.1\ERP.data.pdb
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.DATA\obj\Debug\netcoreapp3.1\ERP.DATA.csproj.CoreCompileInputs.cache
+E:\PROJECT\Asp.net & Angular\ERP\ERP New\BACKEND\ERP.DATA\obj\Debug\netcoreapp3.1\ERP.DATA.genruntimeconfig.cache
